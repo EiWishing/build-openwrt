@@ -495,7 +495,6 @@ CONFIG_FEED_packages=y
 CONFIG_FEED_luci=y
 CONFIG_FEED_routing=y
 CONFIG_FEED_telephony=y
-CONFIG_FEED_amlogic=y
 CONFIG_FEED_Openclash=y
 CONFIG_FEED_PassWall=y
 CONFIG_FEED_freifunk=y
@@ -5173,7 +5172,6 @@ CONFIG_PACKAGE_luci-lua-runtime=y
 CONFIG_PACKAGE_luci-mod-admin-full=y
 # CONFIG_PACKAGE_luci-mod-failsafe is not set
 # CONFIG_PACKAGE_luci-mod-freifunk is not set
-# CONFIG_PACKAGE_luci-mod-freifunk-community is not set
 # CONFIG_PACKAGE_luci-mod-rpc is not set
 CONFIG_PACKAGE_luci-newapi=y
 # end of 2. Modules
@@ -5195,7 +5193,6 @@ CONFIG_PACKAGE_luci-app-aliddns=y
 CONFIG_PACKAGE_luci-app-alist=y
 # CONFIG_PACKAGE_luci-app-aliyundrive-fuse is not set
 # CONFIG_PACKAGE_luci-app-aliyundrive-webdav is not set
-# CONFIG_PACKAGE_luci-app-amlogic is not set
 # CONFIG_PACKAGE_luci-app-amule is not set
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-argone-config=y
@@ -5255,8 +5252,6 @@ CONFIG_PACKAGE_luci-app-firewall=y
 # CONFIG_PACKAGE_luci-app-homeproxy is not set
 # CONFIG_PACKAGE_luci-app-https-dns-proxy is not set
 CONFIG_PACKAGE_luci-app-ikoolproxy=y
-# CONFIG_PACKAGE_luci-app-ipsec-server is not set
-# CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
 # CONFIG_PACKAGE_luci-app-istorex is not set
 CONFIG_PACKAGE_luci-app-kodexplorer=y
 # CONFIG_PACKAGE_luci-app-koolproxyR is not set
@@ -5840,7 +5835,6 @@ CONFIG_PACKAGE_qbittorrent=y
 #
 # Captive Portals
 #
-# CONFIG_PACKAGE_apfree-wifidog is not set
 # CONFIG_PACKAGE_coova-chilli is not set
 # CONFIG_PACKAGE_mesh11sd is not set
 # CONFIG_PACKAGE_nodogsplash is not set
@@ -6479,7 +6473,6 @@ CONFIG_OPENVPN_openssl_ENABLE_SMALL=y
 # CONFIG_PACKAGE_softethervpn5-client is not set
 # CONFIG_PACKAGE_softethervpn5-server is not set
 # CONFIG_PACKAGE_sstp-client is not set
-# CONFIG_PACKAGE_strongswan is not set
 # CONFIG_PACKAGE_tailscale is not set
 # CONFIG_PACKAGE_tailscaled is not set
 # CONFIG_PACKAGE_tinc is not set
